@@ -44,7 +44,7 @@ which is available now.
 ### The resulting directory structure
 ------------
 
-The directory structure of your new project looks like this: 
+The directory structure of your new project looks like this:
 
 ```
 ├── LICENSE
@@ -55,8 +55,6 @@ The directory structure of your new project looks like this:
 │   ├── interim        <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default Sphinx project; see sphinx-doc.org for details
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
